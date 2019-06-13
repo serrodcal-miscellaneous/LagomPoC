@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e36bcbe4-f5a8-4c0a-96de-8bbc42d8ee8b" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <ignored path="$PROJECT_DIR$/hello-world-stream-api/target/" />
+    <ignored path="$PROJECT_DIR$/hello-world-impl/target/" />
+    <ignored path="$PROJECT_DIR$/hello-world-api/target/" />
+    <ignored path="$PROJECT_DIR$/hello-world-stream-impl/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hello-world-api/src/main/scala/com/example/helloworld/api/HelloWorldService.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/local/Cellar/maven/3.6.0/libexec" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/scala_compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules/hello-world.iml" />
+        <option value="$PROJECT_DIR$/.idea/modules/hello-world-stream-api.iml" />
+        <option value="$PROJECT_DIR$/.idea/modules/hello-world-impl.iml" />
+        <option value="$PROJECT_DIR$/.idea/modules/hello-world-api.iml" />
+        <option value="$PROJECT_DIR$/.idea/modules/hello-world-stream-impl.iml" />
+        <option value="$PROJECT_DIR$/.idea/modules/hello-world-build.iml" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__ch_qos_logback_logback_classic_1_2_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__ch_qos_logback_logback_core_1_2_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_101tec_zkclient_0_11_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_datastax_cassandra_cassandra_driver_core_3_6_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_9_8_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_9_8_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_9_8_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_datatype_jackson_datatype_guava_2_9_8_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_datatype_jackson_datatype_pcollections_2_9_8_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_github_jnr_jffi_1_2_16_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_github_jnr_jffi_1_2_16_native_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_github_jnr_jnr_constants_0_9_9_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_github_jnr_jnr_ffi_2_1_7_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_github_jnr_jnr_posix_3_0_44_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_github_jnr_jnr_x86asm_1_0_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_github_luben_zstd_jni_1_3_7_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_google_code_findbugs_jsr305_3_0_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_google_errorprone_error_prone_annotations_2_2_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_google_guava_failureaccess_1_0_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_google_guava_guava_27_1_jre_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_google_j2objc_j2objc_annotations_1_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_akka_management_akka_management_2_12_1_0_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_akka_management_akka_management_cluster_bootstrap_2_12_1_0_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_akka_management_akka_management_cluster_http_2_12_1_0_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_lagom_lagom_akka_management_core_2_12_1_5_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_lagom_lagom_akka_management_scaladsl_2_12_1_5_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_lagom_lagom_api_2_12_1_5_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_lagom_lagom_client_2_12_1_5_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_lagom_lagom_cluster_core_2_12_1_5_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_lagom_lagom_core_testkit_2_12_1_5_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_lagom_lagom_dev_mode_ssl_support_2_12_1_5_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_lagom_lagom_kafka_broker_2_12_1_5_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_lagom_lagom_kafka_client_2_12_1_5_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_lagom_lagom_kafka_server_2_12_1_5_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_lagom_lagom_logback_2_12_1_5_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_lagom_lagom_persistence_cassandra_core_2_12_1_5_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_lagom_lagom_persistence_core_2_12_1_5_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_lagom_lagom_persistence_testkit_2_12_1_5_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_lagom_lagom_scaladsl_api_2_12_1_5_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_lagom_lagom_scaladsl_broker_2_12_1_5_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_lagom_lagom_scaladsl_client_2_12_1_5_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_lagom_lagom_scaladsl_cluster_2_12_1_5_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_lagom_lagom_scaladsl_dev_mode_2_12_1_5_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_lagom_lagom_scaladsl_kafka_broker_2_12_1_5_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_lagom_lagom_scaladsl_kafka_client_2_12_1_5_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_lagom_lagom_scaladsl_persistence_2_12_1_5_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_lagom_lagom_scaladsl_persistence_cassandra_2_12_1_5_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_lagom_lagom_scaladsl_play_json_2_12_1_5_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_lagom_lagom_scaladsl_server_2_12_1_5_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_lagom_lagom_scaladsl_testkit_2_12_1_5_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_lagom_lagom_server_2_12_1_5_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_lagom_lagom_service_registry_client_core_2_12_1_5_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_lightbend_lagom_lagom_spi_2_12_1_5_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_softwaremill_macwire_macros_2_12_2_3_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_actor_2_12_2_5_22_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_cluster_2_12_2_5_22_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_cluster_sharding_2_12_2_5_22_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_cluster_tools_2_12_2_5_22_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_coordination_2_12_2_5_22_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_discovery_2_12_2_5_22_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_distributed_data_2_12_2_5_22_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_http_2_12_10_1_8_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_http_core_2_12_10_1_8_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_http_spray_json_2_12_10_1_8_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_parsing_2_12_10_1_8_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_persistence_2_12_2_5_22_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_persistence_cassandra_2_12_0_61_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_persistence_cassandra_launcher_2_12_0_61_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_persistence_query_2_12_2_5_22_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_protobuf_2_12_2_5_22_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_remote_2_12_2_5_22_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_slf4j_2_12_2_5_22_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_stream_2_12_2_5_22_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_stream_kafka_2_12_1_0_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_stream_testkit_2_12_2_5_22_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_testkit_2_12_2_5_22_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_config_1_3_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_netty_netty_reactive_streams_2_0_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_build_link_2_7_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_cachecontrol_2_12_1_1_5_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_2_12_2_7_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_ahc_ws_2_12_2_7_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_ahc_ws_standalone_2_12_2_0_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_akka_http_server_2_12_2_7_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_exceptions_2_7_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_functional_2_12_2_7_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_json_2_12_2_7_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_server_2_12_2_7_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_streams_2_12_2_7_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_ws_2_12_2_7_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_ws_standalone_2_12_2_0_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_ws_standalone_json_2_12_2_0_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_ws_standalone_xml_2_12_2_0_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_shaded_asynchttpclient_2_0_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_shaded_oauth_2_0_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_twirl_api_2_12_1_4_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_scala_logging_scala_logging_2_12_3_9_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_ssl_config_core_2_12_0_3_7_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__com_yammer_metrics_metrics_core_2_2_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__io_aeron_aeron_client_1_15_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__io_aeron_aeron_driver_1_15_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__io_dropwizard_metrics_metrics_core_3_2_6_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__io_jsonwebtoken_jjwt_0_9_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_3_10_6_Final_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_buffer_4_1_34_Final_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_codec_4_1_34_Final_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_codec_http_4_1_34_Final_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_common_4_1_34_Final_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_handler_4_1_34_Final_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_resolver_4_1_34_Final_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_transport_4_1_34_Final_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__io_spray_spray_json_2_12_1_3_5_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__javax_activation_javax_activation_api_1_2_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__javax_cache_cache_api_1_0_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__javax_inject_javax_inject_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__javax_transaction_jta_1_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__javax_xml_bind_jaxb_api_2_3_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__joda_time_joda_time_2_10_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__junit_junit_4_12_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__log4j_log4j_1_2_17_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__net_sf_jopt_simple_jopt_simple_5_0_4_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_agrona_agrona_0_9_31_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_curator_curator_client_2_12_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_curator_curator_framework_2_12_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_curator_curator_test_2_12_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_kafka_kafka_2_12_2_1_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_kafka_kafka_clients_2_1_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_yetus_audience_annotations_0_5_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_zookeeper_zookeeper_3_4_13_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_checkerframework_checker_qual_2_5_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_codehaus_mojo_animal_sniffer_annotations_1_17_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_javassist_javassist_3_24_0_GA_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_joda_joda_convert_1_9_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_lmdbjava_lmdbjava_0_6_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_lz4_lz4_java_1_5_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_ow2_asm_asm_5_0_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_ow2_asm_asm_analysis_5_0_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_ow2_asm_asm_commons_5_0_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_ow2_asm_asm_tree_5_0_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_ow2_asm_asm_util_5_0_3_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_pcollections_pcollections_2_2_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_reactivestreams_reactive_streams_1_0_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_java8_compat_2_12_0_9_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_12_1_1_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_12_1_1_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_8_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_12_8_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scalactic_scalactic_2_12_3_0_4_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_2_12_3_0_4_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_slf4j_jcl_over_slf4j_1_7_25_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_slf4j_jul_to_slf4j_1_7_25_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_slf4j_log4j_over_slf4j_1_7_25_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_25_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_typelevel_macro_compat_2_12_1_1_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/sbt__org_xerial_snappy_snappy_java_1_1_7_2_jar.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world-impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world-stream-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world-stream-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world-stream-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world-stream-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world-stream-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world-stream-impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world-stream-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world-stream-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world-stream-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world-stream-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world-stream-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="hello-world" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="hello-world [file:/Users/sa23xj/Repositories/LagomPoC/hello-world/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="hello-world-stream-api [file:/Users/sa23xj/Repositories/LagomPoC/hello-world/]" />
+                <option name="path" value="$PROJECT_DIR$/hello-world-stream-api" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="hello-world-impl [file:/Users/sa23xj/Repositories/LagomPoC/hello-world/]" />
+                <option name="path" value="$PROJECT_DIR$/hello-world-impl" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="hello-world-api [file:/Users/sa23xj/Repositories/LagomPoC/hello-world/]" />
+                <option name="path" value="$PROJECT_DIR$/hello-world-api" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="hello-world-stream-impl [file:/Users/sa23xj/Repositories/LagomPoC/hello-world/]" />
+                <option name="path" value="$PROJECT_DIR$/hello-world-stream-impl" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="hello-world-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="2209521924" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2567920773" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2229947486" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e36bcbe4-f5a8-4c0a-96de-8bbc42d8ee8b" name="Default Changelist" comment="" />
+      <created>1560368049474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560368049474</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.31428573" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="sbt" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.lightbend.lagom/lagom-scaladsl-api_2.12/srcs/lagom-scaladsl-api_2.12-1.5.1-sources.jar!/com/lightbend/lagom/scaladsl/api/Service.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="133" column="6" selection-start-line="133" selection-start-column="6" selection-end-line="133" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-world-impl/src/main/scala/com/example/helloworld/impl/HelloWorldServiceImpl.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-world-stream-impl/src/main/scala/com/example/helloworldstream/impl/HelloWorldStreamServiceImpl.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-world-stream-api/src/main/scala/com/example/helloworldstream/api/HelloWorldStreamService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-world-impl/src/main/scala/com/example/helloworld/impl/HelloWorldLoader.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-world-impl/src/main/resources/application.conf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-world-stream-impl/src/main/resources/application.conf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.lightbend.lagom/lagom-scaladsl-persistence_2.12/srcs/lagom-scaladsl-persistence_2.12-1.5.1-sources.jar!/com/lightbend/lagom/scaladsl/persistence/PersistentEntity.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="266" column="8" selection-start-line="266" selection-start-column="8" selection-end-line="266" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-world-impl/src/main/scala/com/example/helloworld/impl/HelloWorldEntity.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1505">
+          <caret line="53" column="18" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-world-api/src/main/scala/com/example/helloworld/api/HelloWorldService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20173536" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
